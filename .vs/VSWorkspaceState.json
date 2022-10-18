@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\assets",
+    "\\client\\src\\components",
+    "\\client\\src\\router",
+    "\\client\\src\\store",
+    "\\client\\src\\views",
+    "\\routers",
+    "\\routers\\api"
+  ],
+  "SelectedNode": "\\client\\src\\views\\FundList.vue",
+  "PreviewInSolutionExplorer": false
+}
